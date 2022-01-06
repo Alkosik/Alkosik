@@ -1,8 +1,8 @@
-### Alkosik - [Gang Słoni][website]
+# Alkosik - [Gang Słoni][website]
 
 <br/>
 
-## Tbh i succ at programming idk what im doing here
+#### Tbh i succ at programming idk what im doing here
 
 <br/>
 
