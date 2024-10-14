@@ -1,5 +1,4 @@
 # Alkosik - [Gang Słoni][website]
-#### Tbh i succ at programming idk what im doing here
 
 <br/>
 
